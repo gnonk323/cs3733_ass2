@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+    background-color: ivory;
+}
+
+h1 {
+    color: darkred;
+}
+
+table {
+    border: #222222 solid 2px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    border: #222222 solid 2px;
+}
+
+td {
+    border: #222222 solid 1px;
+}
