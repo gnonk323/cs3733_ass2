@@ -6,14 +6,14 @@ import Form from "./components/Gus/Form.tsx";
 
 function Gus() {
     return (
-        <>
+        <div className={"gusContainer"}>
             <Title />
             <Intro name={"Gus"}/>
             <List />
             <Table />
             <hr/>
             <Form />
-        </>
+        </div>
     );
 }
 
