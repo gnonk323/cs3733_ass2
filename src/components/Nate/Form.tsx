@@ -1,9 +1,9 @@
 import 'react';
-import '../../style.css';
+import '../../App.css'
 function Form() {
     return (
         <>
-            <form>
+            <form className = "nForm">
                 <label id="fname">First name:</label>
                 <input type="text" id="fname" name="fname" /><br/>
                 <label id="lname">Last name:</label>

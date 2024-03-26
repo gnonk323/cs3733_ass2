@@ -1,9 +1,9 @@
 import 'react';
-import '../../style.css';
+import '../../App.css'
 function Title(){
     return(
         <>
-            <h1>Nathaniel Schneider - Skateboarding</h1>
+            <h1 className="nh1">Nathaniel Schneider - Skateboarding</h1>
         </>
     );
 }

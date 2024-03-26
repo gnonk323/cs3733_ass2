@@ -1,5 +1,5 @@
 import 'react';
-import '../../style.css';
+import '../../App.css'
 function Intro(props: {name: string}){
     return(
         <>

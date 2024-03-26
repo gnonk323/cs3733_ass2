@@ -2,9 +2,22 @@
     background-color: ivory;
     font-family: sans-serif;
 }
+.nh1{
+    color: CadetBlue;
+    font-weight: bold;
+}
 
 h1 {
     color: darkred;
+}
+
+.ntable{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.firstParagraph {
+    font-size: 36px;
 }
 
 table {
@@ -24,3 +37,13 @@ td {
     border: #222222 solid 1px;
 }
 
+.nForm {
+    border: 2px solid black;
+    padding: 20px;
+    width: max-content;
+    text-align: center;
+}
+
+.nUl{
+    font-family: "Andale Mono", serif;
+}

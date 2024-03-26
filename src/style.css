@@ -2,6 +2,7 @@ h1{
     color: CadetBlue;
     font-weight: bold;
 }
+
 li{
     font-family: "Andale Mono", serif;
 }
@@ -14,7 +15,7 @@ form {
     width: max-content;
     text-align: center;
 }
-table, th, td {
+table {
     border: 1px solid black;
     border-collapse: collapse;
 }

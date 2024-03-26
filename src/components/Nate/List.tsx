@@ -1,9 +1,9 @@
 import 'react';
-import '../../style.css';
+import '../../App.css'
 function List(){
     return(
         <>
-            <ul>
+            <ul className="nUl">
                 <li>Ollie</li>
                 <li>Kickflip</li>
                 <li>Shuv-it</li>

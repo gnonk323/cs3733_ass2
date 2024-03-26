@@ -1,16 +1,16 @@
-import '../../style.css';
+import '../../App.css'
 function Table() {
     return (
         <>
-            <table>
+            <table className="ntable">
                 <tr>
-                    <th>Continent</th>
-                    <th>Country</th>
-                    <th>State</th>
-                    <th>City</th>
+                    <th className="nth">Continent</th>
+                    <th className="nth">Country</th>
+                    <th className="nth">State</th>
+                    <th className="nth">City</th>
                 </tr>
                 <tr>
-                    <td>North America</td>
+                    <td className="nth">North America</td>
                     <td>USA</td>
                     <td>Massachusetts</td>
                     <td>Boston</td>
